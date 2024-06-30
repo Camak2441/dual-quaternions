@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DualQuaternions", "DualQuaternions\DualQuaternions.csproj", "{853231AE-E220-4591-A265-1750E00674B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DualQuaternionTests", "DualQuaternionTests\DualQuaternionTests.csproj", "{7E644B72-CF56-46B4-824A-22C86A3E6AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853231AE-E220-4591-A265-1750E00674B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853231AE-E220-4591-A265-1750E00674B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853231AE-E220-4591-A265-1750E00674B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853231AE-E220-4591-A265-1750E00674B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E644B72-CF56-46B4-824A-22C86A3E6AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E644B72-CF56-46B4-824A-22C86A3E6AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E644B72-CF56-46B4-824A-22C86A3E6AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E644B72-CF56-46B4-824A-22C86A3E6AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1384D742-1971-46C1-8ED1-6756860F6941}
+	EndGlobalSection
+EndGlobal
